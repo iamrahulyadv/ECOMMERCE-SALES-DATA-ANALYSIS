@@ -1,2 +1,1 @@
-# Power-BI
 This Power BI project focuses on analyzing sales and profit trends over quarterly and yearly periods. It presents a detailed yet easy-to-understand view of performance, allowing users to track growth, spot patterns, and compare data over time. With interactive charts and filters, it helps in making data-driven decisions and identifying opportunities for improvement in sales and profitability across different time frames.
